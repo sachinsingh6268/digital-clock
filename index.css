@@ -1,0 +1,17 @@
+.clock-section{
+    margin: auto;
+    padding: 10px;
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    color:white;
+}
+h1{
+    /* margin:auto; */
+    text-align: center;
+}
+
+#time{
+    font-size: 5rem;
+}
+
